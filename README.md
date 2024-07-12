@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
