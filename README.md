@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavan2583/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Raghavan2583/LeetCode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -60,13 +63,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
