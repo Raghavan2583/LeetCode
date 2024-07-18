@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Raghavan2583/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Tree
+|  |
+| ------- |
+| [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+## Binary Tree
+|  |
+| ------- |
+| [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 <!---LeetCode Topics End-->
