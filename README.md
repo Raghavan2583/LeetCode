@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 ## Data Stream
@@ -105,9 +106,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 ## Binary Tree
 |  |
 | ------- |
+| [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 <!---LeetCode Topics End-->
