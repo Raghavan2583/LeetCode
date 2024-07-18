@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Design
 |  |
 | ------- |
@@ -108,9 +110,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
