@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
