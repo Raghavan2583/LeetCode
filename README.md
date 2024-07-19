@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Raghavan2583/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Raghavan2583/LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
@@ -128,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
