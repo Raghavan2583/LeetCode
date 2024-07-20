@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Data Stream
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
@@ -154,4 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Raghavan2583/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
