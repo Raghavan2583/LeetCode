@@ -14,6 +14,6 @@ class Solution:
             if nums[i]!=0:
                 nums[j],nums[i]=nums[i],nums[j]
                 j+=1
-        #return nums
+        return nums
 
         
