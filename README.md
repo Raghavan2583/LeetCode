@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavan2583/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Raghavan2583/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
