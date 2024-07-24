@@ -165,5 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
 <!---LeetCode Topics End-->
