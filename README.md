@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavan2583/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
 | [0859-design-circular-deque](https://github.com/Raghavan2583/LeetCode/tree/master/0859-design-circular-deque) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Raghavan2583/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -177,14 +180,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
