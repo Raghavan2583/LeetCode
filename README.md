@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1916-find-center-of-star-graph](https://github.com/Raghavan2583/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
 |  |
