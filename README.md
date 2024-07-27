@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Raghavan2583/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Counting
 |  |
 | ------- |
