@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Raghavan2583/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Raghavan2583/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -249,11 +251,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Strongly Connected Component
 |  |
 | ------- |
