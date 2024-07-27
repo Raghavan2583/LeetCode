@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/Raghavan2583/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
