@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-binary-tree-coloring-game](https://github.com/Raghavan2583/LeetCode/tree/master/1248-binary-tree-coloring-game) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Data Stream
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Raghavan2583/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [2439-longest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
