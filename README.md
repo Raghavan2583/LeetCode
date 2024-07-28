@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavan2583/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Raghavan2583/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Raghavan2583/LeetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Raghavan2583/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Raghavan2583/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raghavan2583/LeetCode/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
