@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Raghavan2583/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Stack
@@ -255,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Graph
 |  |
 | ------- |
@@ -289,8 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Bitmask
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+## Enumeration
+|  |
+| ------- |
+| [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 <!---LeetCode Topics End-->
