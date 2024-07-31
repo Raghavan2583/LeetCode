@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Raghavan2583/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/Raghavan2583/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Raghavan2583/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Raghavan2583/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raghavan2583/LeetCode/tree/master/0002-add-two-numbers) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Raghavan2583/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Raghavan2583/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## String
 |  |
