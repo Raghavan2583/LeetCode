@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
 | [0859-design-circular-deque](https://github.com/Raghavan2583/LeetCode/tree/master/0859-design-circular-deque) |
+| [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Raghavan2583/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/Raghavan2583/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Raghavan2583/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [0420-strong-password-checker](https://github.com/Raghavan2583/LeetCode/tree/master/0420-strong-password-checker) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
+| [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Raghavan2583/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
@@ -279,4 +281,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2439-longest-cycle-in-a-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
+## Bitmask
+|  |
+| ------- |
+| [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 <!---LeetCode Topics End-->
