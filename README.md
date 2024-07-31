@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Raghavan2583/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/Raghavan2583/LeetCode/tree/master/0682-baseball-game) |
+| [0747-min-cost-climbing-stairs](https://github.com/Raghavan2583/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/Raghavan2583/LeetCode/tree/master/0859-design-circular-deque) |
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Raghavan2583/LeetCode/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Raghavan2583/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Bit Manipulation
 |  |
