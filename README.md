@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Raghavan2583/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raghavan2583/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Raghavan2583/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Raghavan2583/LeetCode/tree/master/0169-majority-element) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Raghavan2583/LeetCode/tree/master/0079-word-search) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
 ## Graph
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0980-find-the-shortest-superstring](https://github.com/Raghavan2583/LeetCode/tree/master/0980-find-the-shortest-superstring) |
 ## Bit Manipulation
 |  |
