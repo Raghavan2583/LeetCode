@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Raghavan2583/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Raghavan2583/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Raghavan2583/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3151-minimum-processing-time](https://github.com/Raghavan2583/LeetCode/tree/master/3151-minimum-processing-time) |
 ## Stack
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raghavan2583/LeetCode/tree/master/0002-add-two-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Raghavan2583/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Raghavan2583/LeetCode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
