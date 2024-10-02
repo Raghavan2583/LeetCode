@@ -325,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2482-maximum-rows-covered-by-columns](https://github.com/Raghavan2583/LeetCode/tree/master/2482-maximum-rows-covered-by-columns) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Raghavan2583/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
