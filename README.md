@@ -81,18 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Raghavan2583/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Raghavan2583/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Raghavan2583/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
-## Data Stream
-|  |
-| ------- |
-| [1582-design-browser-history](https://github.com/Raghavan2583/LeetCode/tree/master/1582-design-browser-history) |
-## Binary Search
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
-## Sliding Window
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Raghavan2583/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -135,21 +123,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Raghavan2583/LeetCode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Raghavan2583/LeetCode/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Raghavan2583/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/Raghavan2583/LeetCode/tree/master/0347-top-k-frequent-elements) |
-## Union Find
-|  |
-| ------- |
-| [0128-longest-consecutive-sequence](https://github.com/Raghavan2583/LeetCode/tree/master/0128-longest-consecutive-sequence) |
-| [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Raghavan2583/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
-| [1706-min-cost-to-connect-all-points](https://github.com/Raghavan2583/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
-| [2121-find-if-path-exists-in-graph](https://github.com/Raghavan2583/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
